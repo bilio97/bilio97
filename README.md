@@ -1,7 +1,7 @@
 ### Me chamo Hélio Endrio mas meus amigos me chamam de Bílio, coincidentemente nasci em 1997👋
 
-- 🔭 Atualmente estou trabalhando com Node.Js
-- 🌱 Estou estudando typescript
+- 🔭 Atualmente estou trabalhando com Nest.Js, Mongo e Kafka
+- 🌱 Estou estudando e aplicando typescript
 
 ### ⚙️ &nbsp;Hélio Endrio's GitHub Analytics
 
